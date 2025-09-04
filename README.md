@@ -205,6 +205,9 @@ Limitations
 Less real-world UX data: Fewer firsthand user reports on prompting effectiveness compared to ChatGPT and Claude.
 
 Weaker in math tasks per academic evaluation
+<img width="1580" height="1180" alt="image" src="https://github.com/user-attachments/assets/41c5ec66-589d-41a2-82c2-f46617ab2aba" />
+<img width="1580" height="1180" alt="image" src="https://github.com/user-attachments/assets/9d384739-5726-4f24-9173-3b00012cc15f" />
+
 
 ## Result:
 
